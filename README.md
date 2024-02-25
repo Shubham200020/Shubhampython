@@ -1,2 +1,2 @@
-# Shubhampython
+# Shubham
 Machine Learning python
